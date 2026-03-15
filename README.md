@@ -40,3 +40,10 @@ Now I am focused on building my career in software development.
 ## 📫 Contact Me
 
 Email: nadafpourmehdi@hmail.com
+## 📊 GitHub Stats
+
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Naddafpour&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Naddafpour&layout=compact&theme=tokyonight)
