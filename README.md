@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Mahdi Naddafpour
 
-<!--
-**Mahdi-Naddafpour/Mahdi-Naddafpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer in Progress  
+🚀 Future Backend Developer  
+📍 Based in Toronto, Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am currently learning Python and SQL with the goal of becoming a Backend Developer.
+
+I enjoy solving problems, building projects, and continuously learning new technologies.
+
+Previously, I worked as a Mining Exploration Engineer and CEO of a construction and mining company with more than 14 years of experience in engineering and project management.
+
+Now I am focused on building my career in software development.
+
+---
+
+## 🛠 Skills
+
+- Python
+- SQL
+- Git & GitHub
+- Problem Solving
+- Backend Development (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- Python Programming
+- SQL Databases
+- Backend Development
+- API Development
+
+---
+
+## 📫 Contact Me
+
+Email: nadafpourmehdi@hmail.com
