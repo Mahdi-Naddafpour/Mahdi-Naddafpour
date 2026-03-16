@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mahdi Naddafpour
 
-💻 Python Developer in Progress  
+💻 Python Developer
 🚀 Future Backend Developer  
 📍 Based in Toronto, Canada  
 
