@@ -1,45 +1,49 @@
-# Hi there 👋 I'm Mahdi Naddafpour
+# Mahdi Naddafpour 👋
 
-💻 Python Developer
-🚀 Backend Developer  
-📍 Based in Toronto, Canada  
+## Software Engineer
 
----
-
-## 👨‍💻 About Me
-
-I am currently learning Python and SQL with the goal of becoming a Backend Developer.
-
-I enjoy solving problems, building projects, and continuously learning new technologies.
-
-Previously, I worked as a Mining Exploration Engineer and CEO of a construction and mining company with more than 14 years of experience in engineering and project management.
-
-Now I am focused on building my career in software development.
+Backend-focused software engineer building scalable, real-world applications using Python, SQL, and modern backend technologies.  
+Focused on writing clean, maintainable code and designing efficient systems.
 
 ---
 
-## 🛠 Skills
+## Tech Stack
 
 - Python
-- SQL
+- SQL (MySQL)
+- REST APIs
 - Git & GitHub
-- Problem Solving
-- Backend Development (Learning)
+- Backend Development (Flask / FastAPI)
 
 ---
 
-## 📚 Currently Learning
+## What I Do
 
-- Python Programming
-- SQL Databases
-- Backend Development
-- API Development
+- Build backend applications with real-world use cases  
+- Design and work with relational databases  
+- Develop and integrate RESTful APIs  
+- Focus on code quality, scalability, and system design  
 
 ---
 
-## 📫 Contact Me
+## Current Focus
 
-Email: nadafpourmehdi@hmail.com
+- Backend architecture and API development  
+- Database design and optimization  
+- Building production-style applications  
+- Strengthening problem-solving and coding skills  
+
+---
+
+## Mindset
+
+Driven to continuously improve code quality, scalability, and system design.
+
+---
+
+## Contact
+
+- Email: nadafpourmehdi@gmail.com
 ## 📊 GitHub Stats
 
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Naddafpour&show_icons=true&theme=tokyonight)
